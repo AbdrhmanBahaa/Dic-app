@@ -15,3 +15,11 @@ Concepts Applied:
 3-Responsive Design & Layout:
 -Applying Auto Layout principles to create adaptive and responsive user interfaces that look great on various iOS screen sizes and orientations.
 -Gaining foundational understanding of how to position and size UI elements effectively.
+
+
+
+<img width="206" alt="Image" src="https://github.com/user-attachments/assets/59960b91-70ef-4d0a-b14d-fddd7ccce823" />
+
+<img width="200" alt="Image" src="https://github.com/user-attachments/assets/8b1d26a7-5cca-4464-b708-5d48e10a06c8" />
+
+<img width="433" alt="Image" src="https://github.com/user-attachments/assets/93c65139-4c3f-41a7-a731-f92c31d6cf5d" />
