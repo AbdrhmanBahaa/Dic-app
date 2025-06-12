@@ -16,6 +16,7 @@ Concepts Applied:
 -Applying Auto Layout principles to create adaptive and responsive user interfaces that look great on various iOS screen sizes and orientations.
 -Gaining foundational understanding of how to position and size UI elements effectively.
 
+probblem that i faced during building my first app : the logo of the dice Image is too small but it is responsive
 
 
 <img width="206" alt="Image" src="https://github.com/user-attachments/assets/59960b91-70ef-4d0a-b14d-fddd7ccce823" />
